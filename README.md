@@ -1,4 +1,6 @@
 # GEOG5990MProject Title: Deprivation and Residential Mobility in Lincolnshire
+Student No.201902532
+
 (This is a brief introduction, as most of the analysis is implemented in ipynb notebook)
 ## Overview
 
