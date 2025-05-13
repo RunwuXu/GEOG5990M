@@ -1,5 +1,5 @@
 # GEOG5990MProject Title: Deprivation and Residential Mobility in Lincolnshire
-
+(This is a brief introduction, as most of the analysis is implemented in ipynb)
 ## Overview
 
 This project investigates the relationship between deprivation (measured by IMD Score) and residential mobility across Lincolnshire using open spatial data.
